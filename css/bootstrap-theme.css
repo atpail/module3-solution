@@ -285,7 +285,7 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger:active,
 .btn-danger.active {
-  background-color: #c12e2a;
+  background-color: #2a72c1;
   border-color: #b92c28;
 }
 .btn-danger.disabled,
